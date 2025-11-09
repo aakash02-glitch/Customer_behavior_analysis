@@ -1,4 +1,5 @@
 🛍️ Customer Shopping Behavior Analysis
+
 📊 Project Overview
 
 This project analyzes customer shopping behavior using Python, MySQL, and Power BI on a dataset of 3,900 purchases. The goal is to explore spending patterns, identify key customer segments, and understand product preferences to help businesses make smarter, data-driven decisions.
